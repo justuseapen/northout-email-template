@@ -1,0 +1,22 @@
+{
+  "name": "northout-email-template",
+  "version": "1.0.0",
+  "description": "Email template for northout",
+  "main": "email.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justuseapen/responsive-html-email-template.git"
+  },
+  "keywords": [
+    "email"
+  ],
+  "author": "Justus Eapen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justuseapen/responsive-html-email-template/issues"
+  },
+  "homepage": "https://github.com/justuseapen/responsive-html-email-template#readme"
+}
